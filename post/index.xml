@@ -1,72 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonghyun Yun</title>
-    <link>//jonghyun-yun.github.io/</link>
-      <atom:link href="//jonghyun-yun.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jonghyun Yun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 01:54:36 -0500</lastBuildDate>
+    <title>Posts | Jonghyun Yun</title>
+    <link>//jonghyun-yun.github.io/post/</link>
+      <atom:link href="//jonghyun-yun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Jonghyun Yun</title>
-      <link>//jonghyun-yun.github.io/</link>
+      <title>Posts</title>
+      <link>//jonghyun-yun.github.io/post/</link>
     </image>
-    
-    <item>
-      <title>MATH 6312: Data Mining, Spring 2019</title>
-      <link>//jonghyun-yun.github.io/course/math6312-sp19/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:34 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/course/math6312-sp19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 3316: Statistical Inference, Fall 2018</title>
-      <link>//jonghyun-yun.github.io/teaching/math3316-fa18/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:33 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math3316-fa18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 5312: Mathematical statistics I, Fall 2017</title>
-      <link>//jonghyun-yun.github.io/teaching/math5312-fa17/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:33 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math5312-fa17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 5358: Regression analysis, Spring 2018</title>
-      <link>//jonghyun-yun.github.io/teaching/math5358-sp18/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:33 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math5358-sp18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 5392: Selected topics in mathematics, Fall 2017</title>
-      <link>//jonghyun-yun.github.io/teaching/math5392-fa17/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:33 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math5392-fa17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 5312: Mathematical statistics I, Fall 2016</title>
-      <link>//jonghyun-yun.github.io/teaching/math5312-fa16/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:32 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math5312-fa16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MATH 5313: Mathematical statistics II, Spring 2017</title>
-      <link>//jonghyun-yun.github.io/teaching/math5313-sp17/</link>
-      <pubDate>Wed, 25 Mar 2020 22:43:32 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/teaching/math5313-sp17/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
@@ -179,24 +123,6 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; b&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; c&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Augmented particle filters</title>
-      <link>//jonghyun-yun.github.io/publication/augmented-pf/</link>
-      <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/publication/augmented-pf/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;strong&gt;Markdown&lt;/strong&gt; and \(\rm \LaTeX\) math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Hidden Markov Models to Identify RNA-Protein Interaction Sites in PAR-CLIP</title>
-      <link>//jonghyun-yun.github.io/publication/hmm-clip/</link>
-      <pubDate>Mon, 24 Feb 2014 00:00:00 -0600</pubDate>
-      <guid>//jonghyun-yun.github.io/publication/hmm-clip/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;strong&gt;Markdown&lt;/strong&gt; and \(\rm \LaTeX\) math code.&lt;/p&gt;
 </description>
     </item>
     
