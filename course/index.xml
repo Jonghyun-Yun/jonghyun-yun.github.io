@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Jonghyun Yun</title>
-    <link>//jonghyun-yun.github.io/course/</link>
-      <atom:link href="//jonghyun-yun.github.io/course/index.xml" rel="self" type="application/rss+xml" />
+    <link>/course/</link>
+      <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2020 22:42:20 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Courses</title>
-      <link>//jonghyun-yun.github.io/course/</link>
+      <link>/course/</link>
     </image>
     
   </channel>

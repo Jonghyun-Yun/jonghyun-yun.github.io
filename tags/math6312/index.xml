@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math6312 | Jonghyun Yun</title>
-    <link>//jonghyun-yun.github.io/tags/math6312/</link>
-      <atom:link href="//jonghyun-yun.github.io/tags/math6312/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/math6312/</link>
+      <atom:link href="/tags/math6312/index.xml" rel="self" type="application/rss+xml" />
     <description>math6312</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2020 22:43:34 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>math6312</title>
-      <link>//jonghyun-yun.github.io/tags/math6312/</link>
+      <link>/tags/math6312/</link>
     </image>
     
     <item>
       <title>MATH 6312: Data Mining, Spring 2019</title>
-      <link>//jonghyun-yun.github.io/course/math6312-sp19/</link>
+      <link>/course/math6312-sp19/</link>
       <pubDate>Wed, 25 Mar 2020 22:43:34 -0500</pubDate>
-      <guid>//jonghyun-yun.github.io/course/math6312-sp19/</guid>
+      <guid>/course/math6312-sp19/</guid>
       <description></description>
     </item>
     
